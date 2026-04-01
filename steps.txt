@@ -1,7 +1,0 @@
-1. remove background from all images
-
-2. create a dataset of images, with labels of earth moon and others
-(making sure the categories are balanced)
-Done :happy
-
-3. pass them through some model and test on metrics like accuracy, precision, recall, f1 score
