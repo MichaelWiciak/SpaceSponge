@@ -29,3 +29,15 @@ ENV/
 
 # OS specific
 Thumbs.db
+
+Data/*
+planets/Planets/Earth/*
+planets/Planets/Jupiter/*
+planets/Planets/MakeMake/*
+planets/Planets/Mars/*
+planets/Planets/Mercury/*
+planets/Planets/Neptune/*
+planets/Planets/Moon/*
+planets/Planets/Saturn/*
+planets/Planets/Uranus/*
+planets/Planets/Venus/*
