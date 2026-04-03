@@ -2,6 +2,11 @@
 
 > A computer vision pipeline that pulls planets out of images, cleans them up, and teaches a neural network to recognise them.
 
+<div align="center">
+  <img width="250" alt="image" src="real/window3.png">
+  <img width="250" alt="image" src="real/window4.png">
+</div>
+
 ## What is this?
 
 A project that tackles planet classification end-to-end. The pipeline does three things:
